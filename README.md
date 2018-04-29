@@ -19,10 +19,6 @@ $ make build
 $ make shell
 ```
 
-## Example
-
-`example/apigw` is an example on how to use `amaysim/serverless`.
-
 ## Update Docker image
 
 ### New version of Serverless Framework
@@ -50,7 +46,7 @@ Docker image
 
 The Docker image has the following:
 
-- Node 8.4 (Alpine): we leverage Babel to be compatible with AWS Lambda runtime
+- Node 8.10 compatible with AWS Lambda runtime
 - [Serverless Framework v1.26.1](https://serverless.com)
 - [yarn](https://github.com/yarnpkg/yarn)
 - zip: handy to zip your own serverless artefact
