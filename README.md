@@ -49,5 +49,4 @@ The Docker image has the following:
 - Node 8.10 compatible with AWS Lambda runtime
 - [Serverless Framework v1.27.3](https://serverless.com)
 - [yarn](https://github.com/yarnpkg/yarn)
-- zip: handy to zip your own serverless artefact
 - [AWS CLI](https://github.com/aws/aws-cli): required by some Serverless plug-ins to work
