@@ -1,6 +1,6 @@
 FROM amazonlinux:latest
 
-ENV SERVERLESS serverless@1.27.3
+ENV SERVERLESS serverless@1.28.0
 ENV NODE_VERSION 8.10.0
 ENV NVM_DIR /usr/local/nvm
 

@@ -25,7 +25,6 @@ $ make shell
 
 1. Change `SERVERLESS` of `Dockerfile`
 2. Change `SERVERLESS_VERSION` of `Makefile`
-3. Change version of docker-serverless in `example/apigw/docker-compose`
 3. Build and test locally (test also the apigw example)
 4. Commit and push the changes
 5. Tag the commit with the command `$ make tag`
